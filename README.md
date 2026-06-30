@@ -167,13 +167,13 @@
 - Built a full-stack luxury cake shop using **ASP.NET Core (.NET 8), React.js, Entity Framework Core, and MySQL**
 - Implemented **JWT authentication, role-based authorization, and RESTful APIs**
 - Developed secure admin dashboard for cake, order, customer & image management
-- Designed responsive UI with modern UX principles
+- Designed responsive UI with modern UX principles  
 
 ---
 
 ## 🏫 Smart Campus Operations Hub (2026)
 
-- Developed campus management system for bookings & incident reporting  
+- Developed a campus management system for bookings and incident reporting  
 - Implemented JWT & Google OAuth2 authentication  
 - Built responsive UI using React and Tailwind CSS  
 
@@ -181,33 +181,69 @@
 
 ## 💼 Portfolio Website (2026)
 
-- Designed and deployed personal portfolio website  
-- Showcased projects, skills & achievements  
+- Designed and deployed a personal portfolio website  
+- Showcased projects, skills, and achievements  
+- Implemented CV download and social media integration  
 - Hosted using GitHub Pages  
 
 ---
 
 ## 🎓 Uni Help Desk – Smart Notice & Help Desk System (2026)
 
-- Built MERN stack help desk system  
-- Developed targeted announcements & filtering system  
-- Implemented role-based dashboards  
+- Built a MERN stack help desk system for student support  
+- Developed targeted announcements by faculty & academic year  
+- Implemented notice search, filtering & tracking system  
 
 ---
 
 ## 🐾 Pet Care Plus – Smart Animal Clinic Management System (2025)
 
-- Full-stack clinic management system  
-- Appointment booking, medical records & inventory  
-- JWT authentication & role-based dashboards  
+- Developed a full-stack animal clinic management system  
+- Implemented appointment booking, medical records & inventory system  
+- Built secure JWT authentication with role-based dashboards  
+
+---
+
+## 🐶 HOPEPAWS+ – Animal Rescue & Adoption Mobile App (UI/UX Project) (2025)
+
+- Designed mobile app UI/UX in Figma for animal rescue system  
+- Created workflows for adoption, lost & found, and volunteers  
+- Built complete interactive prototype  
+
+---
+
+## 🩺 Daily Dose – Health & Well-being Mobile App (2025)
+
+- Built Android wellness app using Kotlin & SQLite  
+- Implemented habit tracking, meditation & health reminders  
+- Developed BMI calculator and analytics dashboard  
+
+---
+
+## 📝 Online Examination Management System (2025)
+
+- Developed Java JSP/Servlet-based exam management system  
+- Implemented CRUD operations with MVC architecture  
+- Used MySQL for database management  
+
+---
+
+## 🏠 OPSS – Online Property Sales System (2024)
+
+- Built web-based property sales platform using PHP & MySQL  
+- Implemented authentication, sessions & user profiles  
+- Managed full CRUD operations for property listings  
 
 ---
 
 # 🎓 Certifications
 
 - MongoDB Atlas Administrator Path – MongoDB (May 2026)  
+
 - Test Automation with Selenium WebDriver – LinkedIn Learning (Feb 2026)  
+
 - API Testing Foundations – LinkedIn Learning (Feb 2026)  
+
 - Test Automation Foundations – LinkedIn Learning (Feb 2026)  
 
 ---
